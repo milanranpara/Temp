@@ -6,7 +6,7 @@ class Abc {
     }
     public static void main(String[] args) {
         System.out.println("Hello, World!");
-        System.out.println(Abc.main("Hellio"));
+        System.out.println(Abc.main("Hello"));
         
     }
 }
